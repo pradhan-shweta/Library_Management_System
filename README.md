@@ -9,7 +9,7 @@ Follow these steps for updating the library..
 update `README.md` if usage or interfaces change.
 consider updating the dependency versions in `package.json`.
 
-`npm install` the new package(s) if you did.
+`npm install` the new package(s) will be installed
 `npm install -g @angular/cli` to install angular cli
 `ng --version` or `ng version` to check installed angular version
 `ng serve` to run the application
